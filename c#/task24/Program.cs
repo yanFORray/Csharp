@@ -21,5 +21,5 @@ void showData(string messageStart, int data)
     Console.Write(data);
 }
 int end = getUserData("Введите число А для получения суммы");
-int sum = getSumOfRange(1,end+1);
-showData($"сумму чисел от 1 до {end} = ",sum );
+int sum = getSumOfRange(1,end);
+showData($"сумма чисел от 1 до {end} = ",sum );
