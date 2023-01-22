@@ -1,0 +1,15 @@
+C:\Users\nirva\Desktop\IREI\c#\task36\bin\Debug\net7.0\task36.exe
+C:\Users\nirva\Desktop\IREI\c#\task36\bin\Debug\net7.0\task36.deps.json
+C:\Users\nirva\Desktop\IREI\c#\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+C:\Users\nirva\Desktop\IREI\c#\task36\bin\Debug\net7.0\task36.dll
+C:\Users\nirva\Desktop\IREI\c#\task36\bin\Debug\net7.0\task36.pdb
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.csproj.AssemblyReference.cache
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.dll
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\refint\task36.dll
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.pdb
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+C:\Users\nirva\Desktop\IREI\c#\task36\obj\Debug\net7.0\ref\task36.dll
