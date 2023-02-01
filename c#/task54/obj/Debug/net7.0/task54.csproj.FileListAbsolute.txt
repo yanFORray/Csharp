@@ -1,0 +1,15 @@
+F:\ANALITIK\c#\task54\bin\Debug\net7.0\task54.exe
+F:\ANALITIK\c#\task54\bin\Debug\net7.0\task54.deps.json
+F:\ANALITIK\c#\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+F:\ANALITIK\c#\task54\bin\Debug\net7.0\task54.dll
+F:\ANALITIK\c#\task54\bin\Debug\net7.0\task54.pdb
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.dll
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\refint\task54.dll
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.pdb
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+F:\ANALITIK\c#\task54\obj\Debug\net7.0\ref\task54.dll
