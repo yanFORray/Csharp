@@ -1,0 +1,15 @@
+F:\ANALITIK\c#\task56\bin\Debug\net7.0\task56.exe
+F:\ANALITIK\c#\task56\bin\Debug\net7.0\task56.deps.json
+F:\ANALITIK\c#\task56\bin\Debug\net7.0\task56.runtimeconfig.json
+F:\ANALITIK\c#\task56\bin\Debug\net7.0\task56.dll
+F:\ANALITIK\c#\task56\bin\Debug\net7.0\task56.pdb
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.csproj.AssemblyReference.cache
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.AssemblyInfoInputs.cache
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.AssemblyInfo.cs
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.csproj.CoreCompileInputs.cache
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.dll
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\refint\task56.dll
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.pdb
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\task56.genruntimeconfig.cache
+F:\ANALITIK\c#\task56\obj\Debug\net7.0\ref\task56.dll
