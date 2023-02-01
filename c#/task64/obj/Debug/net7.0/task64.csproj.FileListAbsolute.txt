@@ -1,0 +1,15 @@
+F:\ANALITIK\c#\task64\bin\Debug\net7.0\task64.exe
+F:\ANALITIK\c#\task64\bin\Debug\net7.0\task64.deps.json
+F:\ANALITIK\c#\task64\bin\Debug\net7.0\task64.runtimeconfig.json
+F:\ANALITIK\c#\task64\bin\Debug\net7.0\task64.dll
+F:\ANALITIK\c#\task64\bin\Debug\net7.0\task64.pdb
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.csproj.AssemblyReference.cache
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.AssemblyInfoInputs.cache
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.AssemblyInfo.cs
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.csproj.CoreCompileInputs.cache
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.dll
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\refint\task64.dll
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.pdb
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\task64.genruntimeconfig.cache
+F:\ANALITIK\c#\task64\obj\Debug\net7.0\ref\task64.dll
